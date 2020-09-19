@@ -4,6 +4,11 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+# Dog breed classification
+
+### Introduction
+This project is part of the Udacity Data Scentist Nanodegree and involves the implementation of algorithms for a dog identification app.
+
 
 ## Project Overview
 
