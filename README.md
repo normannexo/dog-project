@@ -5,7 +5,9 @@
 ### Introduction
 This project is part of the Udacity Data Scentist Nanodegree and involves the implementation of algorithms for a dog identification app.
 
-### References
+You can find the original repository by Udacity under the following URL: https://github.com/udacity/dog-project
+
+### Medium blog post
 
 Link to the corresponding [blog post on Medium](https://medium.com/@normannexo/dog-breed-classification-using-deep-learning-concepts-23213d67936c).
 
