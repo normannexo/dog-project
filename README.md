@@ -11,9 +11,9 @@ Link to the corresponding blog post on Medium.
 
 ### Files
 
-'dog_app.ipynb' - A jupyter notebook with the main code
-'dog_app.html' - the html version of the jupyter notebook
-'extract_bottleneck_features.py' - helper functions to extract bottleneck features from models
-'images/' - folder with example images
-'haarcascades/' - haar cascade definition file for face recognition
-'requirements/' - requirements files
+- `dog_app.ipynp  - A jupyter notebook with the main code
+-  dog_app.html  - the html version of the jupyter notebook
+-  extract_bottleneck_features.py  - helper functions to extract bottleneck features from models
+-  images/  - folder with example images
+-  haarcascades/  - haar cascade definition file for face recognition
+-  requirements/  - requirements files
