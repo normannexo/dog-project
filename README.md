@@ -7,6 +7,10 @@ This project is part of the Udacity Data Scentist Nanodegree and involves the im
 
 You can find the original repository by Udacity under the following URL: https://github.com/udacity/dog-project
 
+### Motivation
+
+
+
 ### Medium blog post
 
 Link to the corresponding [blog post on Medium](https://medium.com/@normannexo/dog-breed-classification-using-deep-learning-concepts-23213d67936c).
@@ -19,3 +23,15 @@ Link to the corresponding [blog post on Medium](https://medium.com/@normannexo/d
 -  `images/`  - folder with example images
 -  `haarcascades/`  - haar cascade definition file for face recognition
 -  `requirements/`  - requirements files
+
+### Used libraries
+
+- `tensorflow`
+- `keras`
+- `numpy`
+- `matplotlib`
+- `cv2`
+
+### Acknowledgements
+
+Major parts of the source code are based on the original repository by Udacity: https://github.com/udacity/dog-project
